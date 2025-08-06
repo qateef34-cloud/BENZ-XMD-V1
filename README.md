@@ -40,7 +40,7 @@
 
 First star & Fork the repo using the button below!
 
-[![FORK_REPOSITORY](https://img.shields.io/badge/FORK_REPOSITORY-FF5500?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/ALPHA-KING-TECH-OFC/BENZ-XMD-V1/FORK)
+[![FORK_REPOSITORY](https://img.shields.io/badge/FORK_REPOSITORY-FF5500?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/ALPHA-KING-TECH-OFC/BENZ-XMD-V1/fork)
 
 ---
 
