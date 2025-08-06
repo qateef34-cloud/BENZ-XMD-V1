@@ -1,3 +1,7 @@
+
+# ALPHA-KING-TECH 
+
+
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
@@ -36,7 +40,7 @@
 
 First star & Fork the repo using the button below!
 
-[![FORK_REPOSITORY](https://img.shields.io/badge/FORK_REPOSITORY-FF5500?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/ALPHA-KING-TECH/BENZ-XMD-V1/fork)
+[![FORK_REPOSITORY](https://img.shields.io/badge/FORK_REPOSITORY-FF5500?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/ALPHA-KING-TECH-OFC/BENZ-XMD-V1/FORK)
 
 ---
 
@@ -112,7 +116,7 @@ First star & Fork the repo using the button below!
 
 
 >
-[🧑‍💻 Follow Our Whatsapp Channel🧑‍💻](https://whatsapp.com/channel/0029VbAjU7X3QxRxL7WvbI0O)
+[🧑‍💻 Follow Our Whatsapp Channel🧑‍💻](https://whatsapp.com/channel/0029VajbiIfAjPXO45zG2i2c)
 
 * [✅ Join Public Group ⚡](https://chat.whatsapp.com/KfuN5lbHkxfHvgcQS94AWY?mode=ac_t)
   
